@@ -194,4 +194,4 @@ This repository serves as the official landing page for *Heroes of the Dark*. Th
 **Get the most recent version of *Heroes of the Dark* today!**
 
 ---
-**Last updated:** 2026-11-14 09:57:36 UTC
+**Last updated:** 2026-11-14 16:30:21 UTC
